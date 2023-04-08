@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+    border: 1px solid black;
+    list-style-type: none;
+    text-align: right;
+    padding: 10px;
+}
+ul li{
+    padding: 0 20px 0 0;
+}
+.row2{
+    text-align: center;
+    height: 85vh;
+    background-color: #eeeaea;
+}
+.row2 table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    position: relative;
+    top: 40%;
+    left: 50%;
+    transform:  translateY(-70%) translateX(-50%);
+}
+.row2 table th,td{
+    padding: 7px 20px;
+    border: 1px solid black;
+}
