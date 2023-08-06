@@ -18,11 +18,11 @@ Welcome to codeWallet, a basic PHP project that serves as a simple wallet for st
 ## Screenshots
 
 
-![cap (4)](https://github.com/pathuGIT/codeWallet/assets/92371888/88b1aa71-ab88-4419-acfd-33a7e8ef32a1)
-![cap (3)](https://github.com/pathuGIT/codeWallet/assets/92371888/5629d483-c1b2-4400-ba6e-002244b2bfd6)
+
 ![cap (2)](https://github.com/pathuGIT/codeWallet/assets/92371888/9443aa21-3c44-442c-8ea3-c5161c29b5c7)
 ![cap (1)](https://github.com/pathuGIT/codeWallet/assets/92371888/19416dc6-29b5-41eb-a32f-04d96e3ce9ed)
-
+![cap (3)](https://github.com/pathuGIT/codeWallet/assets/92371888/5629d483-c1b2-4400-ba6e-002244b2bfd6)
+![cap (4)](https://github.com/pathuGIT/codeWallet/assets/92371888/88b1aa71-ab88-4419-acfd-33a7e8ef32a1)
 
 ## Installation
 
